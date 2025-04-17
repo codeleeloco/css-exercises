@@ -1,0 +1,12 @@
+.do {
+    background-color: black;
+    color: white;
+}
+
+.donot {
+    background-color: yellow;
+}
+.butt {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
