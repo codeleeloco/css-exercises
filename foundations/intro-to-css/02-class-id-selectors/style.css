@@ -12,3 +12,9 @@ p {
 .two {
     font-size: 24px;
 }
+
+.three {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
