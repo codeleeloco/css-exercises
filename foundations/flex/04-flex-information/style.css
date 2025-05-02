@@ -8,8 +8,10 @@ img {
 }
 
 .title {
+  text-align: center;
   font-size: 36px;
   font-weight: 900;
+  
 }
 .list {
   display:flex;
