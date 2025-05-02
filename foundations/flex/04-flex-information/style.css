@@ -16,6 +16,14 @@ img {
   gap:52px;
 }
 
+.plant {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
