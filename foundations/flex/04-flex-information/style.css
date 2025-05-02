@@ -13,6 +13,7 @@ img {
 }
 .list {
   display:flex;
+  gap:52px;
 }
 
 /* do not edit this footer */
